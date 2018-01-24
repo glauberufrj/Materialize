@@ -1,0 +1,26 @@
+body{
+	background-image:url("img/background/literature.jpg");
+	height:100%;
+	background-attachment: fixed;
+}
+
+div.nav-wrapper{
+	font-family: 'Dosis', sans-serif;
+	
+}
+
+div#texto{
+	color:black;
+	background-color:white;
+	margin-top:30vh;
+	padding-top:5vh;
+	padding-bottom:5vh;
+}
+
+p {
+	text-align: justify;
+}
+
+footer{
+	
+}
