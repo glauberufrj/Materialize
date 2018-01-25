@@ -6,24 +6,30 @@ body{
 
 div.nav-wrapper{
 	font-family: 'Dosis', sans-serif;
-	
 }
 
 div#texto{
 	color:black;
-	background-color:white;
+	background-color:rgba(255,255,255,0.9);
 	margin-top:45vh;
 	padding-top:5vh;
 	padding-bottom:5vh;
 }
 
+nav ul a{
+	font-size:30px !important;
+}
+
 p {
 	text-align: justify;
+	font-family: "TimesNewRoman";
+	font-size: 16px;
 }
 
 footer{
 	margin-top:45vh;
 	padding-top:0px !important;
+	background-color: rgba(255,255,255,0.9) !important;
 }
 
 img.redes{
@@ -38,6 +44,7 @@ img.map{
 
 ul#rodape li{
 	display:inline-block;
-	margin-left:-20px;
-	margin-right:-20px;
+	margin-left:-1vw;
+	margin-right:-1vw;
+
 }
